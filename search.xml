@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[MathJax-demo]]></title>
-    <url>%2F2017%2FMathJax-demo%2F</url>
-    <content type="text"><![CDATA[$$\begin{array}{c|lcr}n &amp; \text{Left} &amp; \text{Center} &amp; \text{Right} \\hline1 &amp; 0.24 &amp; 1 &amp; 125 \2 &amp; -1 &amp; 189 &amp; -8 \3 &amp; -20 &amp; 2000 &amp; 1+10i \\end{array}$$ $$\sqrt[4]{\frac xy}$$]]></content>
-      <categories>
-        <category>aa</category>
-      </categories>
-      <tags>
-        <tag>aa</tag>
-        <tag>bb</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Markdown-Demo]]></title>
     <url>%2F2017%2FMarkdown-Demo%2F</url>
     <content type="text"><![CDATA[引用 一级引用一级引用 二级引用前面不用单独&gt;二级引用结束后要单独用&gt; 又是一级引用 上面演示员源文件123456&gt;一级引用&gt;一级引用&gt;&gt;二级引用前面不用单独&gt;&gt;&gt;二级引用结束后要单独用&gt;&gt;&gt;又是一级引用 无序序列 前面是 ‘+’ 前面是 ‘-‘ 前面是 ‘*’ 上面演示员源文件123+ 前面是&apos;+&apos;- 前面是&apos;-&apos;* 前面是 &apos;*&apos; 引用+无序列表 一级引用还是一级引用 二级引用了 序列 *，加了’*’为什么感觉变成下一级引用了，不科学 还是序列前面没’*’了 前面没’*’了，并且上面空了一行 回到一级引用，上面空了一行 上面演示员源文件12345678910&gt;一级引用&gt;还是一级引用&gt;&gt; 二级引用了&gt;&gt; * 序列 \*，加了&apos;*&apos;为什么感觉变成下一级引用了，不科学&gt;&gt; * 还是序列&gt;&gt; 前面没&apos;*&apos;了&gt;&gt; &gt;&gt; 前面没&apos;*&apos;了，并且上面空了一行&gt;&gt;回到一级引用，上面空了一行 asa 超链接http://localhost:4000上面演示员源文件1[http://localhost:4000](http://localhost:4000)]]></content>
       <categories>
-        <category>aa</category>
+        <category>test</category>
       </categories>
       <tags>
-        <tag>aa</tag>
-        <tag>bb</tag>
+        <tag>Markdown</tag>
+        <tag>Demo</tag>
+        <tag>test</tag>
       </tags>
   </entry>
   <entry>
@@ -76,10 +65,10 @@
     <url>%2F2017%2F%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
     <content type="text"><![CDATA[分类测试文章]]></content>
       <categories>
-        <category>Testing</category>
+        <category>test</category>
       </categories>
       <tags>
-        <tag>Testing</tag>
+        <tag>test</tag>
       </tags>
   </entry>
   <entry>

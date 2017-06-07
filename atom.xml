@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-05T07:45:01.866Z</updated>
+  <updated>2017-06-07T01:49:48.930Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,38 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>MathJax-demo</title>
-    <link href="http://yoursite.com/2017/MathJax-demo/"/>
-    <id>http://yoursite.com/2017/MathJax-demo/</id>
-    <published>2017-06-05T07:42:58.000Z</published>
-    <updated>2017-06-05T07:45:01.866Z</updated>
-    
-    <content type="html"><![CDATA[<p>$$<br>\begin{array}{c|lcr}<br>n &amp; \text{Left} &amp; \text{Center} &amp; \text{Right} \<br>\hline<br>1 &amp; 0.24 &amp; 1 &amp; 125 \<br>2 &amp; -1 &amp; 189 &amp; -8 \<br>3 &amp; -20 &amp; 2000 &amp; 1+10i \<br>\end{array}<br>$$</p>
-<p>$$\sqrt[4]{\frac xy}$$<br><a id="more"></a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;$$&lt;br&gt;\begin{array}{c|lcr}&lt;br&gt;n &amp;amp; \text{Left} &amp;amp; \text{Center} &amp;amp; \text{Right} \&lt;br&gt;\hline&lt;br&gt;1 &amp;amp; 0.24 &amp;amp; 1 &amp;amp; 125 \&lt;br&gt;2 &amp;amp; -1 &amp;amp; 189 &amp;amp; -8 \&lt;br&gt;3 &amp;amp; -20 &amp;amp; 2000 &amp;amp; 1+10i \&lt;br&gt;\end{array}&lt;br&gt;$$&lt;/p&gt;
-&lt;p&gt;$$\sqrt[4]{\frac xy}$$&lt;br&gt;
-    
-    </summary>
-    
-      <category term="aa" scheme="http://yoursite.com/categories/aa/"/>
-    
-    
-      <category term="aa" scheme="http://yoursite.com/tags/aa/"/>
-    
-      <category term="bb" scheme="http://yoursite.com/tags/bb/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Markdown-Demo</title>
     <link href="http://yoursite.com/2017/Markdown-Demo/"/>
     <id>http://yoursite.com/2017/Markdown-Demo/</id>
     <published>2017-06-04T16:52:21.000Z</published>
-    <updated>2017-06-04T16:56:30.702Z</updated>
+    <updated>2017-06-07T01:49:48.930Z</updated>
     
     <content type="html"><![CDATA[<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><blockquote>
 <p>一级引用<br>一级引用</p>
@@ -98,12 +71,14 @@
     
     </summary>
     
-      <category term="aa" scheme="http://yoursite.com/categories/aa/"/>
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
     
     
-      <category term="aa" scheme="http://yoursite.com/tags/aa/"/>
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
     
-      <category term="bb" scheme="http://yoursite.com/tags/bb/"/>
+      <category term="Demo" scheme="http://yoursite.com/tags/Demo/"/>
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
@@ -237,7 +212,7 @@
     <link href="http://yoursite.com/2017/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <id>http://yoursite.com/2017/分类测试文章/</id>
     <published>2017-06-02T02:44:10.000Z</published>
-    <updated>2017-06-02T02:46:09.386Z</updated>
+    <updated>2017-06-07T01:51:16.393Z</updated>
     
     <content type="html"><![CDATA[<p>分类测试文章</p>
 ]]></content>
@@ -249,10 +224,10 @@
     
     </summary>
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
