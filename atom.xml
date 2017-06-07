@@ -74,11 +74,11 @@
       <category term="test" scheme="http://yoursite.com/categories/test/"/>
     
     
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
       <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
     
       <category term="Demo" scheme="http://yoursite.com/tags/Demo/"/>
-    
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
