@@ -4,9 +4,9 @@
   <subtitle>code is life !</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://blog.wuyunfeng.cn/"/>
   <updated>2017-06-07T01:49:48.930Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://blog.wuyunfeng.cn/</id>
   
   <author>
     <name>hurmishine</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Markdown-Demo</title>
-    <link href="http://yoursite.com/2017/Markdown-Demo/"/>
-    <id>http://yoursite.com/2017/Markdown-Demo/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/Markdown-Demo/"/>
+    <id>https://blog.wuyunfeng.cn/2017/Markdown-Demo/</id>
     <published>2017-06-04T16:52:21.000Z</published>
     <updated>2017-06-07T01:49:48.930Z</updated>
     
@@ -71,21 +71,21 @@
     
     </summary>
     
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+      <category term="test" scheme="https://blog.wuyunfeng.cn/categories/test/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="https://blog.wuyunfeng.cn/tags/test/"/>
     
-      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+      <category term="Markdown" scheme="https://blog.wuyunfeng.cn/tags/Markdown/"/>
     
-      <category term="Demo" scheme="http://yoursite.com/tags/Demo/"/>
+      <category term="Demo" scheme="https://blog.wuyunfeng.cn/tags/Demo/"/>
     
   </entry>
   
   <entry>
     <title>code-test</title>
-    <link href="http://yoursite.com/2017/code-test/"/>
-    <id>http://yoursite.com/2017/code-test/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/code-test/"/>
+    <id>https://blog.wuyunfeng.cn/2017/code-test/</id>
     <published>2017-06-03T17:21:15.000Z</published>
     <updated>2017-06-03T18:03:54.801Z</updated>
     
@@ -113,17 +113,17 @@
     
     </summary>
     
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+      <category term="test" scheme="https://blog.wuyunfeng.cn/categories/test/"/>
     
     
-      <category term="code" scheme="http://yoursite.com/tags/code/"/>
+      <category term="code" scheme="https://blog.wuyunfeng.cn/tags/code/"/>
     
   </entry>
   
   <entry>
     <title>demo</title>
-    <link href="http://yoursite.com/2017/demo/"/>
-    <id>http://yoursite.com/2017/demo/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/demo/"/>
+    <id>https://blog.wuyunfeng.cn/2017/demo/</id>
     <published>2017-06-03T16:25:14.000Z</published>
     <updated>2017-06-03T16:25:14.378Z</updated>
     
@@ -137,19 +137,19 @@
     
     </summary>
     
-      <category term="aa" scheme="http://yoursite.com/categories/aa/"/>
+      <category term="aa" scheme="https://blog.wuyunfeng.cn/categories/aa/"/>
     
     
-      <category term="aa" scheme="http://yoursite.com/tags/aa/"/>
+      <category term="aa" scheme="https://blog.wuyunfeng.cn/tags/aa/"/>
     
-      <category term="bb" scheme="http://yoursite.com/tags/bb/"/>
+      <category term="bb" scheme="https://blog.wuyunfeng.cn/tags/bb/"/>
     
   </entry>
   
   <entry>
     <title>github怎么绑定自己的域名？</title>
-    <link href="http://yoursite.com/2017/github%E6%80%8E%E4%B9%88%E7%BB%91%E5%AE%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9F%9F%E5%90%8D%EF%BC%9F/"/>
-    <id>http://yoursite.com/2017/github怎么绑定自己的域名？/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/github%E6%80%8E%E4%B9%88%E7%BB%91%E5%AE%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9F%9F%E5%90%8D%EF%BC%9F/"/>
+    <id>https://blog.wuyunfeng.cn/2017/github怎么绑定自己的域名？/</id>
     <published>2017-06-03T13:02:21.000Z</published>
     <updated>2017-06-03T13:12:05.001Z</updated>
     
@@ -166,19 +166,19 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+      <category term="hexo" scheme="https://blog.wuyunfeng.cn/categories/hexo/"/>
     
     
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+      <category term="github" scheme="https://blog.wuyunfeng.cn/tags/github/"/>
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://blog.wuyunfeng.cn/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>biao-qian</title>
-    <link href="http://yoursite.com/2017/biao-qian-demo/"/>
-    <id>http://yoursite.com/2017/biao-qian-demo/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/biao-qian-demo/"/>
+    <id>https://blog.wuyunfeng.cn/2017/biao-qian-demo/</id>
     <published>2017-06-03T04:42:53.000Z</published>
     <updated>2017-06-03T12:12:38.448Z</updated>
     
@@ -198,19 +198,19 @@
     
     </summary>
     
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+      <category term="test" scheme="https://blog.wuyunfeng.cn/categories/test/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="https://blog.wuyunfeng.cn/tags/test/"/>
     
-      <category term="biaoqian" scheme="http://yoursite.com/tags/biaoqian/"/>
+      <category term="biaoqian" scheme="https://blog.wuyunfeng.cn/tags/biaoqian/"/>
     
   </entry>
   
   <entry>
     <title>分类测试文章</title>
-    <link href="http://yoursite.com/2017/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/分类测试文章/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>https://blog.wuyunfeng.cn/2017/分类测试文章/</id>
     <published>2017-06-02T02:44:10.000Z</published>
     <updated>2017-06-07T01:51:16.393Z</updated>
     
@@ -224,17 +224,17 @@
     
     </summary>
     
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+      <category term="test" scheme="https://blog.wuyunfeng.cn/categories/test/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="https://blog.wuyunfeng.cn/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>标签测试文章</title>
-    <link href="http://yoursite.com/2017/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/标签测试文章/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>https://blog.wuyunfeng.cn/2017/标签测试文章/</id>
     <published>2017-06-02T02:38:15.000Z</published>
     <updated>2017-06-02T02:40:22.280Z</updated>
     
@@ -249,14 +249,14 @@
     </summary>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="https://blog.wuyunfeng.cn/tags/Testing/"/>
     
   </entry>
   
   <entry>
     <title>new-hexo-blog</title>
-    <link href="http://yoursite.com/2017/new-hexo-blog/"/>
-    <id>http://yoursite.com/2017/new-hexo-blog/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/new-hexo-blog/"/>
+    <id>https://blog.wuyunfeng.cn/2017/new-hexo-blog/</id>
     <published>2017-06-01T08:27:34.000Z</published>
     <updated>2017-06-03T03:08:38.433Z</updated>
     
@@ -297,8 +297,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/hello-world/"/>
-    <id>http://yoursite.com/2017/hello-world/</id>
+    <link href="https://blog.wuyunfeng.cn/2017/hello-world/"/>
+    <id>https://blog.wuyunfeng.cn/2017/hello-world/</id>
     <published>2017-06-01T07:47:14.990Z</published>
     <updated>2017-06-01T07:47:14.990Z</updated>
     
